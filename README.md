@@ -11,7 +11,7 @@
 
 1. **Naklonujte repozitář:**
    ```sh
-   git clone <adresa-repozitáře>
+   git clone https://github.com/ImSalsel/MapApp.git
    ```
 
 2. **Přesun do složky:**
